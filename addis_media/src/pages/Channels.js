@@ -1,8 +1,8 @@
 import React from 'react';
-import addisSportLogo from '../assets/images.png'; // Import the logo
-import addisMezenagnaLogo from '../assets/addissport.jpg'; // Import the logo
+import addisSportLogo from '../assets/01.jpg'; // Import the logo
+import addisMezenagnaLogo from '../assets/00.jpg'; // Import the logo
 import addisEntertainmentLogo from '../assets/addissport.jpg'; // Import the logo
-import addisSportLyuLogo from '../assets/addissport.jpg'; // Import the logo
+import addisSportLyuLogo from '../assets/images.png'; // Import the logo
 
 const channels = [
   {

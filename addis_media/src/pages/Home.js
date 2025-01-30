@@ -14,7 +14,7 @@ const Home = () => {
           <p>Your source for sports, entertainment, and more!</p>
           <div className="buttons">
             <a href="/channels" className="btn">Explore Channels</a>
-            <a href="/videos" className="btn" style={{ marginLeft: '1rem' }}>Watch Videos</a>
+            <a href="/videos" className="btn" style={{ marginLeft: '3rem' }}>Watch Videos</a>
           </div>
         </div>
         <div className="play">
